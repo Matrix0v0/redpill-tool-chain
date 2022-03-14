@@ -3,7 +3,7 @@
 [![构建](https://github.com/tossp/redpill-tool-chain/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/tossp/redpill-tool-chain/actions/workflows/test.yml)
 
 [中文说明](README.md "English")
-THX @haydibe
+THX @haydib
 
 ## Inofficial redpill toolchain image builder
 
